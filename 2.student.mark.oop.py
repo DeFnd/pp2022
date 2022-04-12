@@ -126,5 +126,5 @@ for i in range(NumberOfStd):
 NumberOfCour=int(input("\nHow many courses are there?"))
 for j in range(NumberOfCour):
     studentmanagement.inputCourse()
-studentmanagement.inputMark()
-studentmanagement.listMark()
+    studentmanagement.inputMark()
+    studentmanagement.listMark()
